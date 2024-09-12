@@ -25,7 +25,7 @@ else:
 print("---------------------------------")
 
 # 1.3
-'''inconnu = random.randint(1, 100)
+inconnu = random.randint(1, 100)
 recherche_joueur = int(input("Essaie de deviner mon nombre"))
 while inconnu != recherche_joueur :
     if inconnu < recherche_joueur:
@@ -34,7 +34,6 @@ while inconnu != recherche_joueur :
     elif inconnu > recherche_joueur:
         print("Plus grand")
         recherche_joueur = int(input("Essaie de deviner mon nombre"))
-'''
 
 print("---------------------------------")
 
